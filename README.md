@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![EX 1 2 Saravanan_page-0001](https://github.com/SaravananPV3010/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/139754526/4873db13-9d7f-4349-b1d1-2218ef6939ad)
+ ![image](https://github.com/SaravananPV3010/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/139754526/b8aba163-b90c-4b76-966b-17d3aa39a40f)
 
  
  
